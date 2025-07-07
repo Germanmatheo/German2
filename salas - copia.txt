@@ -1,0 +1,308 @@
+60
+---  
+2  
+Camara de Cristal  
+--  
+1:3|4:12|7:8|20:8  
+---  
+3  
+Tunel Olvidado  
+--  
+1:2|9:6|11:5|20:10  
+---  
+4  
+Galeria de los Ecos  
+--  
+2:12|13:15|5:9  
+---  
+5  
+Cripta de los Reyes  
+--  
+4:9|16:11|17:7  
+---
+1  
+Sala de los Susurros  
+--  
+2:5|3:7|60:15  
+---  
+6  
+Sala de las Aranas  
+--  
+18:4|19:6  
+---  
+7  
+Pasaje de la Niebla  
+--  
+2:8|22:8  
+---  
+8  
+Circulo de Piedra  
+--  
+24:9|26:7  
+---  
+9  
+Abismo Brillante  
+--  
+3:6|28:5  
+---  
+10  
+Puente de las Sombras  
+--  
+31:11|32:6  
+---  
+11  
+Antro de los Murcielagos  
+--  
+3:5|34:10  
+---  
+12  
+Laberinto de Espejos  
+--  
+36:9|38:12  
+---  
+13  
+Sala del Reloj de Arena  
+--  
+4:15|40:8  
+---  
+14  
+Jardin de Estatuas  
+--  
+43:3|44:7  
+---  
+15  
+Trono del Olvido  
+--  
+45:12|47:9  
+
+---  
+16  
+Cocina de los Banquetes  
+--  
+5:11|50:6  
+---  
+17  
+Observatorio Estelar  
+--  
+5:7|53:7  
+---  
+18  
+Sala de los Mosaicos  
+--  
+6:4|54:8|55:5  
+---  
+19  
+Biblioteca Prohibida  
+--  
+6:6|57:9|60:7  
+---  
+20  
+Celdas de la Prision  
+--  
+2:8|3:10|60:5  
+---  
+21  
+Camara de las Raices  
+--  
+54:3  
+---  
+22  
+Sala de los Engranajes  
+--  
+7:8|56:6  
+---  
+23  
+Refugio del Ermitano  
+--  
+57:4  
+---  
+24  
+Sala del Caldero  
+--  
+8:9  
+---  
+25  
+Galeria de los Retratos  
+--  
+26:7  
+---  
+26  
+Camara de las Sombras  
+--  
+8:7|25:7  
+---  
+27  
+Pozo de los Deseos  
+--  
+31:8  
+---  
+28  
+Sala de las Campanas  
+--  
+33:7  
+---  
+29  
+Tumba del Gigante  
+--  
+35:11  
+---  
+30  
+Patio de los Arcos  
+--  
+37:12  
+---  
+31  
+Sala de las Mascaras  
+--  
+10:11|27:8  
+---  
+32  
+Camara del Resplandor  
+--  
+10:6  
+---  
+33  
+Corredor de los Suspiros  
+--  
+11:8|28:7  
+---  
+34  
+Sala de las Columnas  
+--  
+11:10  
+---  
+35  
+Camara del Tesoro  
+--  
+11:7|29:11  
+---  
+36  
+Pasaje de los Secretos  
+--  
+12:9  
+---  
+37  
+Sala de los Papiros  
+--  
+30:12  
+
+---  
+38  
+Cocina de los Brujos  
+--  
+12:12  
+---  
+39  
+Observatorio Lunar  
+--  
+55:10  
+---  
+40  
+Sala de las Runas  
+--  
+13:8  
+---  
+41  
+Tumba del Sabio  
+--  
+13:4  
+---  
+42  
+Jardin de Cristal  
+--  
+14:10  
+---  
+43  
+Sala de los Tapices  
+--  
+14:3  
+---  
+44  
+Camara de las Lagrimas  
+--  
+14:7  
+---  
+45  
+Salon del Trono Oscuro  
+--  
+15:12  
+---  
+46  
+Sala de los Oraculos  
+--  
+15:5  
+---  
+47  
+Laboratorio Alquimico  
+--  
+15:9  
+---  
+48  
+Granero Abandonado  
+--  
+16:4  
+---  
+49  
+Sala de las Marionetas  
+--  
+16:8  
+---  
+50  
+Camara de las Velas  
+--  
+16:6  
+---  
+51  
+Mirador Celestial  
+--  
+17:3  
+---  
+52  
+Sala de los Mapas  
+--  
+17:11  
+---  
+53  
+Taller del Relojero  
+--  
+17:7  
+---  
+54  
+Camara de los Susurros
+--  
+18:8|21:3  
+---  
+55  
+Sala de los Espejos Distorsionados
+--  
+18:5|39:10  
+---  
+56  
+Patio de las Esculturas  
+--  
+22:6  
+---  
+57  
+Biblioteca de los Muertos  
+--  
+19:9|23:4  
+---  
+65  
+Altar de los Dioses  
+--  
+1:15|19:7|20:5  
+---  
+58  
+Sala de los Pendulos  
+--  
+19:4  
+---  
+64  
+Camara de las Sombras Danzantes  
+--  
+19:7  
+---  
+60  
+Observatorio Submarino  
+--  
+1:7|53:7  

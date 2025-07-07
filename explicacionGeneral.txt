@@ -1,0 +1,77 @@
+ESTRUCTURA DE ARCHIVOS DEL SISTEMA
+=================================
+
+1. ESPECIE.TXT
+-------------
+â— DescripciÃ³n: Define especies (razas) disponibles para personajes/enemigos.
+â— Campos por entrada:
+  1. ID Ãºnico
+  2. Nombre de la especie
+  3. Fortaleza (hÃ©roes) | DaÃ±o (enemigos) | "-" si no aplica
+  4. Salud (siempre presente)
+  5. Rapidez (siempre presente)
+â— Ejemplo:
+  3
+  Enano
+  150
+  -
+  30
+
+2. PERSONAJES.TXT
+----------------
+â— DescripciÃ³n: Lista de personajes jugables o NPCs.
+â— Campos por entrada:
+  1. ID Ãºnico
+  2. Especie (debe existir en ESPECIE.TXT)
+  3. Nombre del personaje
+â— Ejemplo:
+  12
+  Elfo
+  Legolas
+
+3. IMPLEMENTO.TXT
+-----------------
+â— DescripciÃ³n: Objetos utilizables (armas, consumibles, etc.).
+â— Campos por entrada:
+  1. ID Ãºnico
+  2. Nombre del objeto
+  3. Tipo (Arma/MÃ¡gico/Defensa/Consumible/Herramienta)
+  4. Fortaleza mÃ­nima requerida
+  5. Valor (daÃ±o/cura/protecciÃ³n)
+  6. Usos restantes
+â— Ejemplo:
+  8
+  PociÃ³n de CuraciÃ³n
+  Consumible
+  30
+  75
+  3
+
+4. MAPA.TXT
+----------
+â— DescripciÃ³n: Estructura de ubicaciones y sus conexiones.
+â— Campos por entrada:
+  1. ID Ãºnico
+  2. Nombre de la sala
+  3. "-" (separador)
+  4. Cantidad|Tipo de enemigos (opcional)
+  5. "--" (separador)
+  6. Adyacencias (ID_sala:distancia separadas por "|")
+â— Ejemplo:
+  15
+  Grand Central Terminal
+  -
+  1|Orcos
+  2|Vampiro
+  --
+  1:10|17:15|21:18
+
+
+REGLAS DE FORMATO
+-----------------
+â— Separadores:
+  - "---" entre registros
+  - "--" entre secciones de un registro
+  - "|" para listas internas
+â— CodificaciÃ³n: UTF-8
+â— Orden: Campos deben seguir secuencia definida

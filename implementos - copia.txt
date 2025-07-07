@@ -1,0 +1,85 @@
+12
+---
+1
+Espada de anduril
+Arma
+100
+200
+50
+---
+2
+Arco de Galadriel
+Arma
+80
+150
+100
+---
+3
+Hacha de Guerra Enana
+Arma
+150
+180
+30
+---
+4
+Baculo de Gandalf
+Arma
+90
+100
+20
+---
+5
+Anillo Unico
+Defensa
+200
+500
+1
+---
+6
+Daga Elfica
+Arma
+70
+120
+200
+---
+7
+Escudo de Minas Tirith
+Defensa
+110
+150
+80
+---
+8
+Pocion de curacion
+Consumible
+30
+75
+3
+---
+9
+Red de Captura
+Defensa
+40
+25
+5
+---
+10
+Cetro de Saruman
+Arma
+100
+300
+10
+---
+11
+Armadura de Mithril
+Defensa
+140
+250
+150
+---
+12
+Cuerno de gondor
+Defensa
+60
+50
+2

@@ -1,0 +1,127 @@
+14
+---
+2
+Elfo
+80
+0
+65
+90
+40
+Los elfos son rapidos y habiles con la magia, pero menos resistentes.
+---
+1
+Humano
+120
+1
+70
+60
+1
+Los Humanos son versatiles y equilibrados en todas sus estadisticas
+---
+3
+Enano
+150
+0
+100
+40
+20
+Los enanos son fuertes y resistentes, pero lentos.
+---
+4
+Mago
+95
+0
+55
+50
+60
+Los magos son humanos que practican la magia  
+---
+5
+Caballero
+130
+0
+90
+60
+30
+El caballero es un humano con armadura que defiendo la justicia.
+---
+6
+Ladron
+70
+0
+60
+100
+10
+Toma objetos que no le pertenecen
+---
+7
+Orco
+100
+90
+80
+50
+80
+Son criaturas agresivas con gran fuerza fisica y mal olor
+---
+8
+Troll
+0
+60
+40
+80
+90
+Los troll son un ende demoniaca malvada 
+---
+9
+Vampiro
+75
+25
+60
+50
+80
+Un vampiro es un espectro que no es nada bueno
+---
+10
+Golem
+110
+200
+20
+10
+100
+El golem es un gigante fuerte  pero demasiado lento 
+---
+11
+Licantropo
+0
+85
+30
+70
+77
+Es un hombre lobo
+---
+12
+Necrofago
+0
+200
+300
+50
+68
+Un necrofago es un ser que come carne muerta 
+---
+13
+Nigromante
+50
+12
+70
+55
+80
+Maestros de la magia oscura, fragiles pero poderosos.
+---
+14
+Hada
+16
+0
+55
+95
+95
+Las Hadas son seres magicos, pero delicados
